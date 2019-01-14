@@ -12,6 +12,17 @@ So to that end, think of this doc as your briefing on what it's like to work wit
 
 ## Values and Motivations
 
+Things I like:
+- Meaningful work
+- Being useful
+- Being challenged
+- Working with kind and driven people
+- Learning opportunities
+
+Things I don't like:
+- Inefficiency
+- Over-pivoting of priorities
+
 ## Communication
 
 In order of most to least preferred, my communication preferences are:
@@ -22,26 +33,28 @@ In order of most to least preferred, my communication preferences are:
 4. Text Message
 5. Email
 
-I generally respond to email a few designed times per day. 
+I respond to email a few designed times per day. 
 
 I prefer straight talk over glad-handing or beating around the bush. 
 
-I will try my best to not discuss work topics outside of work (this includes lunchtime), unless you want to. I'm a big believer in having healthy work/life partitions, and in no way do I interpret this as a lack of dedication to your job.
+I try my best to not discuss work topics outside of work (this includes lunchtime), unless you want to. I'm a big believer in having healthy work/life partitions, and in no way do I interpret this as a lack of dedication to your job.
 
-I will always welcome company at the lunch table, even when it looks like I'm busy on my phone. My Twitter browsing is nowhere near as important or interesting as chatting with you. 
+I always welcome company at the lunch table, even when it looks like I'm busy on my phone (I'm probably just browsing Twitter). 
+
+I'm a socially-reserved and relatively unemotive person by nature. In the past, some have interpreted this as shyness, timidity, boredom, or lack of enthusiasm. I promise you I'm none of these things. I don't say this as an excuse to seem standoffish or rude. If I ever come off this way, please tell me. 
 
 ## Feedback
 
-I greatly value giving and getting feedback, because it's a chance for me to do better and to learn more about the people I work with. I believe the best feedback is timely, specific and actionable. Good feedback is also aimed at behavior over qualities ("you _did_ this" as opposed to "you _are_ this").
+I greatly value giving and getting feedback because it's essential to our success. I believe the best feedback is timely, specific and actionable. Good feedback is also aimed at external behavior over innate qualities ("you _did_ this" as opposed to "you _are_ this").
 
 Productive feedback cycles are reliant on:
-- **Safety**: One must feel safe to speak openly and honestly, without fear of an emotional response or negative repercussion.
-- **Impact**: One must believe that their feedback will be acted upon genuinely by the individual or group receiving it.
-- **Ease**: Giving feedback should be frictionless and not feel like a burden. It should be easy. 
+- **Safety**: You feel safe to speak openly and honestly, without fear of an emotional response or negative repercussion.
+- **Impact**: Feedback will be acted upon genuinely by the individual or group receiving it.
+- **Ease**: Giving feedback is frictionless and not a burden. 
 
 ## Interpersonal
 
-- I'm a socially-reserved and relatively unemotive person by nature. In the past, some have interpreted this as shyness, modesty, boredom, or lack of enthusiasm.  I promise you I'm none of these things. I don't say this as an excuse to seem standoffish or rude. If I ever come off this way, please tell me. 
+
 
 - 
 
