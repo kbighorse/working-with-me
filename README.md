@@ -1,8 +1,8 @@
 # Working With Me
 
-You know that time at the beginning of a job when everything's brand new? New physical space, new commute, new tasks, new boss, new coworkers. Not only are you trying to get up to speed on your actual job and your new pace of life, but you're also getting to know the people in your office. Who prefers email over Slack? Who welcomes feedback? Who likes company at the lunch table? There have been times when I wish I had a quick briefing of someone's personality and working style, so I could be more prepared, make fewer mistakes, and shorten that period from brand new employee to fully onboarded contributor. 
+You know that time at the beginning of a job when everything's brand new? New physical space, new commute, new tasks, new boss, new coworkers. Not only are you trying to get up to speed on your actual job and your new pace of life, but you're also getting to know the people in your office. Who prefers email over Slack? Who welcomes feedback? Who likes company at the lunch table? There have been times when I wish I had a quick briefing of someone's personality and working style, so I could be more prepared, make fewer mistakes, and shorten that length of time from brand new employee to fully onboarded contributor. 
 
-So to that end, think of this doc as your briefing on what it's like to work with me. Obviously we'll get to know each other better over time, which I look forward to doing!
+So to that end, think of this doc as your briefing on what it's like to work with me. Obviously we'll get to know each other better over time, this is just a start :)
 
 ## About this Doc
 - I believe this document could be useful for anyone who is my coworker, manager, or direct report. 
@@ -33,11 +33,13 @@ In order of most to least preferred, my communication preferences are:
 4. Text Message
 5. Email
 
-I respond to email a few designed times per day. 
+Despite working with computers for a living, I'm actually not the best typist, so I prefer verbal conversations over typed ones, especially for remote work.
 
-I prefer straight talk over glad-handing or beating around the bush. 
+I respond to email a few designated times per day. If it's urgent and we're in the office, let's talk in person. Working remotely, video chat or phonecall is best. 
 
-I try my best to not discuss work topics outside of work (this includes lunchtime), unless you want to. I'm a big believer in having healthy work/life partitions, and in no way do I interpret this as a lack of dedication to your job.
+To improve concentration, I take a lot of hand-written notes and avoid bringing my computer into meetings. I've also found that writing stuff by hand has a uniquely quieting effect when I'm faced with large, complex tasks. 
+
+I try my best to not discuss work topics outside of work (this includes lunchtime), unless you want to. I'm a big believer in having healthy work/life partitions, and in no way do I interpret this as a lack of dedication to your job. 
 
 I always welcome company at the lunch table, even when it looks like I'm busy on my phone (I'm probably just browsing Twitter). 
 
@@ -52,13 +54,12 @@ Productive feedback cycles are reliant on:
 - **Impact**: Feedback will be acted upon genuinely by the individual or group receiving it.
 - **Ease**: Giving feedback is frictionless and not a burden. 
 
+I strive to achieve all of these criteria when I recieve feedback, and expect the same when giving it.
+
 ## Interpersonal
 
+I will love your office dog!
 
+If you've traveled to a cool place recently, I want to hear about it :)
 
-- 
-
-- No, I do not watch Game of Thrones. 
-
-- My favorite TV show is The Great British Bakeoff. 
-
+No, I do not watch Game of Thrones. 
