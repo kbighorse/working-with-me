@@ -37,6 +37,8 @@ Despite working with computers for a living, I'm actually not the best typist, s
 
 I respond to email a few designated times per day. If it's urgent and we're in the office, let's talk in person. Working remotely, video chat or phonecall is best. 
 
+If I'm working on something and would like your input, I will often comment or chat you (even if we're nearby). I try to do that so that things are documented for the future and so that you can finish what you're doing first.
+
 To improve concentration, I take a lot of hand-written notes and avoid bringing my computer into meetings. I've also found that writing stuff by hand has a uniquely quieting effect when I'm faced with large, complex tasks. 
 
 I try my best to not discuss work topics outside of work (this includes lunchtime), unless you want to. I'm a big believer in having healthy work/life partitions, and in no way do I interpret this as a lack of dedication to your job. 
