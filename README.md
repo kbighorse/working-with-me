@@ -71,7 +71,7 @@ I believe the best feedback is measured, specific, and actionable. I also think 
 
 In line with my regular communication style, I like doing feedback in-person/verbally, because it's hard to pick up on tone in a typed message.
 
-If possible, I prefer receiving feedback retroactively instead of in the moment. I find it a bit difficult to process feedback while doing trying to do something else. That said, I'd rather have you tell me something than not tell me.
+If possible, I prefer receiving feedback retroactively instead of in the moment. I find it a bit difficult to process feedback while trying to do something else. That said, I'd rather have you tell me something than not tell me.
 
 I will do my best to give feedback in your preferred method. I also try to remember that praise is just as important as critical feedback.
 
