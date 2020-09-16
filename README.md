@@ -12,20 +12,11 @@ To that end, think of this doc as your briefing on what it's like to work with m
 
 ## About Me
 
-I've been a professional software developer for over five years (my technical abilities are below). I'm based in Chicago, Illinois. My pronouns are she/her.
+I've been a professional software developer for over five years (my technical abilities are below). I'm based in Chicago, Illinois. My pronouns are she/her. 18F is my first public sector job. I started here September of 2020.
 
 The main career goal is to do work and develop relationships that are meaningful, interesting, and impactful. In order to do this, I want to build a strong foundation of technical knowledge that goes beyond specific frameworks or trends.
 
 One of my goals is to become a better technical and non-technical communicator. I enjoy having the opportunity to write things like documentation, blog posts, and other public material. I'd like to do more talks and presentations.
-
-Things I like:
-- Working with kind and driven people
-- Being useful
-- Learning opportunities
-
-Things I don't like:
-- Inefficiency
-- Over-pivoting of priorities
 
 ## Communication
 
@@ -36,8 +27,6 @@ Despite working with computers for a living, I'm actually not the best typist, s
 I respond to email a few designated times per day. If it's urgent and we're in the office, let's talk in person. Working remotely, video chat or phonecall is best.
 
 If I'm working on something and would like your input, I will often comment or chat you (even if we're nearby). I try to do that so that things are documented for the future and so that you can finish what you're doing first.
-
-To improve concentration, I take a lot of hand-written notes and avoid bringing my computer into in-person meetings.
 
 In tense situations, like fixing an urgent bug or deploying a major release, I prefer to stay calm. I'm a socially-reserved and relatively unemotive person by nature. In the past, some have interpreted this as shyness, timidity, boredom, or lack of enthusiasm. I promise you I'm none of these things! I don't say this as an excuse to seem standoffish or rude. If I ever come off this way, please tell me.
 
