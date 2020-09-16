@@ -12,7 +12,7 @@ To that end, think of this doc as your briefing on what it's like to work with m
 
 ## About Me
 
-I've been a professional software developer for over five years (my technical abilities are below). I'm based in Chicago, Illinois.
+I've been a professional software developer for over five years (my technical abilities are below). I'm based in Chicago, Illinois. My pronounse are she/her.
 
 The main career goal is to do work and develop relationships that are meaningful, interesting, and impactful. In order to do this, I want to build a strong foundation of technical knowledge that goes beyond specific frameworks or trends.
 
