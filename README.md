@@ -18,7 +18,7 @@ One of my goals is to become a better technical and non-technical communicator. 
 
 Outside of work, I like reading, writing, cooking, learning Spanish, and moseying along Chicago's lakefront. This year I tried birding for the first time and really enjoyed it.
 
-You'll notice these are all solo activities because I'm a textbook introvert that gains energy from stuff like this. But I also love talking to people, especially when we can get into meaty discussions about something we both care about.
+You'll notice these are all solo activities because I'm a textbook introvert who gains energy from stuff like this. But I also love talking to people, especially when we can get into meaty discussions about something we both care about.
 
 ## Communication
 
