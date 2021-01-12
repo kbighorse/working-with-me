@@ -10,7 +10,7 @@ Hello and welcome to my personal README! Obviously we'll get to know each other 
 
 ## Who Am I?
 
-I've been a professional software developer for over five years (my technical abilities are below). I'm based in Chicago, Illinois in the Central time zone. My pronouns are she/her. 18F is my first public sector job. My previous job was in e-commerce. I started here September of 2020.
+I've been a professional software developer for over six years (my technical abilities are below). I'm based in Chicago, Illinois in the Central time zone. My pronouns are she/her. 18F is my first public sector job. My previous job was in e-commerce. I started here September of 2020.
 
 My main career goal is to do work and develop relationships that are meaningful, interesting, and impactful. In order to do this, I want to build a strong foundation of technical knowledge that goes beyond specific frameworks or trends. I also want to get to know a lot of people across all disciplines (especially ones that aren't mine).
 
@@ -50,7 +50,7 @@ I've ping-ponged back and forth between Ruby and Javascript projects pretty much
 ### My growth areas are:
 - front-end performance enhancement and monitoring
 - system administration and AWS
-- learning how to use Docker in non-trivial ways
+- using Docker in non-trivial ways
 - Graphql
 - public speaking
 
