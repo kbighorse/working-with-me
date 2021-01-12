@@ -72,6 +72,6 @@ I will do my best to give feedback in your preferred method. I also try to remem
 
 I'm slowly learning Spanish, still not very good at it :/
 
-If you've read a book or seen a good movie lately, I want to hear about it!
+If you've read a book, seen a good movie, or listened to a good podcast lately, I want to hear about it!
 
 If you've traveled to a cool place lately (once we can travel again), I want to hear about it!
