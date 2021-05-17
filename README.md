@@ -30,6 +30,8 @@ If I'm working on something and would like your input, I will often comment or c
 
 In tense situations, like fixing an urgent bug or deploying a major release, I prefer to stay calm because it helps me do my best work. I'm a socially-reserved and relatively unemotive person by nature. In the past, some have interpreted this as shyness, timidity, boredom, or lack of enthusiasm. I promise you I'm none of these things! I don't say this as an excuse to seem standoffish or rude. If I ever come off this way, please tell me.
 
+I'm always up for a "coffee" to just chat, no agenda needed. Feel free to grab any time on my calendar to do so :)
+
 ## Technical
 
 The frameworks I know best are Ruby on Rails, React.js, and their most common related packages. Most of my professional experience is in relational databases like PostgreSQL or MySQL. I'm comfortable writing raw SQL and actually enjoy it.
