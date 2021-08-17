@@ -70,7 +70,7 @@ I will aim to give feedback in your preferred method. I also try to remember tha
 
 ## Other Stuff
 
-I'm slowly learning Spanish and ASL, but I'm not very good at either (yet :))
+I'm slowly learning Spanish and ASL, but I'm not very good at either (todavía :))
 
 If you've read a book, seen a movie, or listened to a good podcast lately, I want to hear about it!
 
